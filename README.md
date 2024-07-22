@@ -4,10 +4,10 @@
 
 ## I'm a Learner, Developer, and a Friend!
 
-- 🔭 I’m currently working as Software Developer at [Infosys](https://www.infosys.com/)!
+- 🔭 I’m currently working as Software Developer at [EY](https://www.ey.com/)!
 - 🌱 I’m a JavaScript enthusiast. 🧡
 - 💬 C++ coder. 🙌
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch series and Play Chess.
 
 
